@@ -6,7 +6,8 @@ public class EstructuraControl {
         System.out.print("Cual es tu edad: ");
         int edad = sc.nextInt();
 
-        // Condicionales
+        // Condicionales //
+
         if(edad >= 18){
             System.out.println("Es mayor de edad");
         } else if (edad >= 13) {
