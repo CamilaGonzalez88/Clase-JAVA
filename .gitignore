@@ -31,3 +31,13 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+src/Bucles.java
+src/CadenasTexto.java
+src/CollectionSets.java
+src/EjemplosScanner.java
+src/EstructuraControl.java
+src/Funciones.java
+src/Listas.java
+src/Main.java
+src/Operadores.java
