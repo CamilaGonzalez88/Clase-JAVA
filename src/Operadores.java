@@ -15,8 +15,20 @@ public class Operadores {
         num1 %= 2; // num1 = num1 %2
         System.out.println(num1);
 
+        // Operadores d comparacion
 
+        System.out.println(2 > 4 ); //mayor que, menor que etc
 
+        // Operadores Logicos _ tablas de la verdad
+        System.out.println(true && false);
+        System.out.println(true || false);
+
+        // Operadores unarios
+        int num2 = 2;
+        System.out.println("num2++ = " + num2++);
+        System.out.println("num2 = " +num2);
+        System.out.println("++num2 = " + ++num2);
+        System.out.println("num2 = " + num2);
 
 
 

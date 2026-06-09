@@ -25,7 +25,7 @@ public class Main {
         variable = 23;
         System.out.println(variable);
 
-        final double PI = 3.14; // Buena práctica trabajar con mayúsculas
+        final double PI = 3.14; // Buena práctica trabajar con mayúsculas nombre variable
 
 
         // Formas de imprimir y concatenar
